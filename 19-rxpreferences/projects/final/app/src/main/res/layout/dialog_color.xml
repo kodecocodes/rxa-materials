@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical">
+
+    <EditText
+      android:id="@+id/hex_input"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:gravity="center"
+      android:textSize="42sp"/>
+
+    <ProgressBar
+      android:id="@+id/loading"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:visibility="invisible"/>
+
+    <TextView
+      android:id="@+id/color_name"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:layout_margin="12dp"
+      android:textSize="22sp"
+      tools:text="Cobalt"/>
+
+    <TextView
+      android:id="@+id/closest_color_hex"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:layout_margin="12dp"
+      android:textSize="22sp"
+      tools:text="#453523"/>
+
+    <ImageView
+      android:id="@+id/favorite"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:padding="12dp"
+      android:src="@drawable/ic_favorite_black_24dp"/>
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical"
+  tools:context=".TimeActivity">
+
+    <Button
+      android:id="@+id/replay"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/replay_text"/>
+
+    <Button
+      android:id="@+id/buffer"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/buffer_text"/>
+
+    <Button
+      android:id="@+id/windowed"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/window_text"/>
+
+    <Button
+      android:id="@+id/delay"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/delayed_button_text"/>
+
+    <Button
+      android:id="@+id/timeout"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/timeout_button_text"/>
+
+</LinearLayout>

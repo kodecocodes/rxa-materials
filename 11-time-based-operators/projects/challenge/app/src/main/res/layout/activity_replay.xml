@@ -1,0 +1,19 @@
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical">
+
+    <com.raywenderlich.android.timeoperators.MarbleView
+      android:id="@+id/replay_1"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Emitted elements (1 per second)"/>
+
+    <com.raywenderlich.android.timeoperators.MarbleView
+      android:id="@+id/replay_2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Replay 1 after 3.0 seconds"/>
+
+</LinearLayout>

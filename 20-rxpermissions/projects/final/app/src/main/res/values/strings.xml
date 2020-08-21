@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wundercast</string>
+    <string name="current_location_hint">Current Location</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="photos_format">
+    <item quantity="one">1 photo</item>
+    <item quantity="other">%d photos</item>
+  </plurals>
+</resources>

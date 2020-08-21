@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">GitFeed</string>
+  <string name="avatar">Avatar</string>
+  <string name="repoAction">%1$s, %2$s</string>
+</resources>

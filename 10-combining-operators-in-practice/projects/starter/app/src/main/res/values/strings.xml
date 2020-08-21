@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">OurPlanet</string>
+  <string name="categories_title">Categories</string>
+  <string name="last_360_days">Last 360 days</string>
+  <string name="last_days_format">Last %1$s days</string>
+  <string name="category_events">Category Events</string>
+</resources>

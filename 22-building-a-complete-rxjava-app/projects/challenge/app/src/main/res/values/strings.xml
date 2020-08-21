@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickTodo</string>
+    <string name="due_tasks">Due Tasks</string>
+    <string name="done_tasks">Done Tasks</string>
+    <string name="title">Title</string>
+    <string name="edit">Edit</string>
+    <string name="invalid_title">Invalid Title</string>
+</resources>

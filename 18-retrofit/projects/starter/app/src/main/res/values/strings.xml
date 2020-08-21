@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JsonPlayground</string>
+    <string name="json_text">{}</string>
+    <string name="key_hint">Key</string>
+    <string name="value_hint">Value</string>
+</resources>

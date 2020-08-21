@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Combinestagram</string>
+  <string name="add_pictures">Add Pictures</string>
+
+  <!-- Remove these -->
+  <string name="bottom_sheet_option_camera">Use Camera</string>
+  <string name="bottom_sheet_option_gallery">Upload from Gallery</string>
+  <string name="bottom_sheet_option_heading">Add Photo</string>
+  <string name="bottom_sheet_option_remove_photo">Remove Photo</string>
+  <string name="photo">photo</string>
+  <string name="selected_image">Selected Image</string>
+  <string name="collage">Collage</string>
+  <string name="add">Add</string>
+  <string name="clear">Clear</string>
+  <string name="save">Save</string>
+
+</resources>

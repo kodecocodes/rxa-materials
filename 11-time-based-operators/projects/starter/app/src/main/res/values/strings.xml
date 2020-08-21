@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimeOperators</string>
+    <string name="replay_text">Replay</string>
+    <string name="buffer_text">Buffer</string>
+    <string name="window_text">Window</string>
+    <string name="delayed_button_text">Delayed</string>
+    <string name="timeout_button_text">Timeout</string>
+    <string name="click_me_quick_text">Click me! Quick!</string>
+    <string name="delayed_elements_text">Delayed elements</string>
+    <string name="emitted_elements">Emitted elements</string>
+</resources>

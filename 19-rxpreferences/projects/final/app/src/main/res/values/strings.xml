@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HexColor</string>
+    <string name="no_color_error">Illegal hex code no color found</string>
+</resources>
